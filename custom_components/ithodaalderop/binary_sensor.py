@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Sensor component for Itho
+Binary Sensor component for Itho
 Author: Benjamin
 """
 from homeassistant.config_entries import ConfigEntry
